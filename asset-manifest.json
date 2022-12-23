@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/JinFolio/static/css/main.ecace72c.css",
+    "main.js": "/JinFolio/static/js/main.c7ff10df.js",
+    "index.html": "/JinFolio/index.html",
+    "main.ecace72c.css.map": "/JinFolio/static/css/main.ecace72c.css.map",
+    "main.c7ff10df.js.map": "/JinFolio/static/js/main.c7ff10df.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ecace72c.css",
+    "static/js/main.c7ff10df.js"
+  ]
+}
